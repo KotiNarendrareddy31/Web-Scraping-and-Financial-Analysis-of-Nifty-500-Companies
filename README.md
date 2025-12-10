@@ -15,6 +15,7 @@ To build an end-to-end data pipeline that:
 ✔ Helps visualize stock market patterns & valuation metrics
 
 ##📂 Project Structure
+
 Nifty500-WebScraping-EDA/
 │
 ├── README.md
@@ -52,6 +53,7 @@ Nifty500-WebScraping-EDA/
 📒 Jupyter Notebook
 
 ##📊 Key Insights
+
 ###📌 Market Cap Distribution
 
 🔵 Large Cap: 190 companies
